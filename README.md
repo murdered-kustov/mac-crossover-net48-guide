@@ -19,7 +19,6 @@ This repository provides a step-by-step guide to install .NET Framework 4.8 on m
 
 ## ️ Notes
 - 64-bit bottles are recommended; 32-bit may cause issues.
-- Some applications may still fail due to Wine/CrossOver limitations.
 - Install dependencies like Visual C++ runtimes, fonts, and DirectX as needed.
 
 ## Files
